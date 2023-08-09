@@ -7,7 +7,7 @@ user expectation.
 Online courses for Agile and learning the source control
 
 
-#Project2. The strateguy behind it is to:
+#Project2. The strategy behind it is to:
 EcoPower Logistics
 RESTful APIs and services
 EcoPower Logistics prioritises the safe delivery of solar products by inspections
