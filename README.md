@@ -1,4 +1,7 @@
 # CMPG323-Overview-30211816
+
+#BRANCHING STRATEGY OF EACH PROJECT
+
 #Project1. The strategy behind it is to:
 create a Repository for every given project
 outline the desired features
@@ -35,6 +38,8 @@ Implement the code principles
 Implement design patterns
 Enhanced and improved the existing ASP.NET Core MVC Web Application
 Which funtions of system should be performed?
+
+#Project4
 
 
 
