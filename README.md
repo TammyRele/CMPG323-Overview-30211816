@@ -57,7 +57,8 @@ Report will be built in Power BI
 2. Implentation
 Acquire and practise the necessary skills to create report
 
-Gitignore
+#Gitignore explaination:
+Gitignore file, helps with ignore when having to commit in project
 In Project 2 and 4
 the gitignore file used will be in visual stuido C# and Azure portal
 Ignoring the Power B1
