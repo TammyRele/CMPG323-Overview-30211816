@@ -50,10 +50,18 @@ Record into each web application field
 Test that the desired output
 Output is a new record being displayed
 
+
 #Project5 (Links with project 1,4)
 1. Main
 Report will be built in Power BI
 2. Implentation
 Acquire and practise the necessary skills to create report
 
+Gitignore
+In Project 2 and 4
+the gitignore file used will be in visual stuido C# and Azure portal
+Ignoring the Power B1
+
+In Project 5
+Power BI will be implemented and used
 
