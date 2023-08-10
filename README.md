@@ -59,8 +59,13 @@ Acquire and practise the necessary skills to create report
 
 #Gitignore explaination:
 Gitignore file, helps with ignore when having to commit in project
-In Project 2 and 4
-the gitignore file used will be in visual stuido C# and Azure portal
+
+In Project 2 and 3
+The gitignore file used will be in visual stuido C# and Azure portal
+Ignoring the Power B1
+Project 4
+Excel File
+UiPath Automation cloud
 Ignoring the Power B1
 
 In Project 5
