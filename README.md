@@ -39,7 +39,21 @@ Implement design patterns
 Enhanced and improved the existing ASP.NET Core MVC Web Application
 Which funtions of system should be performed?
 
-#Project4
+#Project4 (Links with project 3)
+1. Planning
+Deploy into the production 
+2. Testing and implementing
+Deploy solution
+Go through UAT to test dataset
+Insert input data
+Record into each web application field
+Test that the desired output
+Output is a new record being displayed
 
+#Project5 (Links with project 1,4)
+1. Main
+Report will be built in Power BI
+2. Implentation
+Acquire and practise the necessary skills to create report
 
 
