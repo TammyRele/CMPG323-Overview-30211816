@@ -64,7 +64,7 @@ In Project 2 and 3
 The gitignore file used will be in visual stuido C# and Azure portal
 Ignoring the Power B1
 Project 4:
-This needs Student creditanals to access 
+
 Excel File
 UiPath Automation cloud
 Ignoring the Power B1
@@ -72,3 +72,5 @@ Ignoring the Power B1
 In Project 5
 Power BI will be implemented and used
 
+#SENSETIVITY OF WORK AND CREDITENTIALS
+Certain tools need access of credentials  such as Azure portal. Azure needs storage credentials so there are no limits to the work given as a student and Project work needs to be private due to sensetive information and to avoid plagarism. Work being stolen or copied from.
