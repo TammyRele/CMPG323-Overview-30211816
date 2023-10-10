@@ -40,7 +40,7 @@ Enhanced and improved the existing ASP.NET Core MVC Web Application
 Which funtions of system should be performed?
 
 #Project4 (Links with project 3)
-1. Planning
+1. Planning -  introduction to UIPath and Robotics and Process Automation(RPA)
 Deploy into the production 
 2. Testing and implementing
 Deploy solution
